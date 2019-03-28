@@ -38,3 +38,4 @@ Add additional notes about how to deploy this on a live system
 * т.к. писать о проекте особо нечего а бобавление url в текст я не использовал
 сделаю ссылку на статью с описанием 
 * [text] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - тут хранится оригинал статьи
+
